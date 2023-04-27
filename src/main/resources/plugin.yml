@@ -1,0 +1,5 @@
+name: Damage
+main: com.imperatrica.damage.Main
+author: imperatrica
+version: "1.0.0"
+api: ["1.0.0"]
